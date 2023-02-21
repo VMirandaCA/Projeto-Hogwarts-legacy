@@ -6,5 +6,5 @@ a summary of the game.
 
 ![image](https://user-images.githubusercontent.com/121330983/220297851-d8074a59-fec3-4161-ba1f-e9880735f567.png)
 
-Link for project
+Link for project:
 https://vmirandaca.github.io/Projeto-Hogwarts-legacy/
